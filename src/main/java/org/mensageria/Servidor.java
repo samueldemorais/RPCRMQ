@@ -40,7 +40,7 @@ public class Servidor {
 //
 //                System.out.println(" [.] fib(" + message + ")");
 //                response += fib(n);
-                System.out.println("The name is: " + message);
+                System.out.println("The name is : " + message);
             } catch (RuntimeException e) {
                 System.out.println(" [.] " + e);
             } finally {
